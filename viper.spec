@@ -28,6 +28,7 @@ BuildRequires: cmake(Qt6OpenGL)
 BuildRequires: cmake(Qt6Svg)
 BuildRequires: cmake(Qt6Quick)
 BuildRequires: cmake(Qt6Qml)
+BuildRequires: cmake(Qt6)
 BuildRequires: pkgconfig(sqlite3)
 BuildRequires: pkgconfig(xkbcommon)
 
