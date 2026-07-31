@@ -1,7 +1,7 @@
 %define snapshot 20220831
 
 Name: viper
-Version: 0.9.1
+Version: 1.13.0
 Release: %{?snapshot:1.%{snapshot}.}1
 Source0: https://github.com/LeFroid/Viper-Browser/archive/refs/heads/master.tar.gz
 Summary: Lightweight web browser
